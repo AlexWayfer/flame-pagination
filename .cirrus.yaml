@@ -43,9 +43,9 @@ rspec_task:
     - rubocop
   container:
     matrix:
-      image: ruby:2.5
-      image: ruby:2.6
-      image: ruby:2.7
+      - image: ruby:2.5
+      - image: ruby:2.6
+      - image: ruby:2.7
   <<: *bundle_cache
   environment:
     CODECOV_TOKEN: ENCRYPTED[72e6d906f821cd7e2fe8a4252b4350697c282babb00a5e492bc8920829242b9c5033d412eda442a9c0fe461e1173cea2]
