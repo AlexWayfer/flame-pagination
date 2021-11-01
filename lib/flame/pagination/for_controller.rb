@@ -75,7 +75,7 @@ module Flame
 
 			def page_after_per_page_change
 				previous_per_page = @previous_saved_per_page || DEFAULT_PER_PAGE
-				Rational((current_page - 1) * previous_per_page + 1, current_per_page).ceil
+				Rational(((current_page - 1) * previous_per_page) + 1, current_per_page).ceil
 			end
 
 			def per_page_change_if_different
