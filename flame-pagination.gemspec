@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
 
 	spec.files = Dir['lib/**/*.rb', 'README.md', 'LICENSE.txt', 'CHANGELOG.md']
 
-	spec.add_runtime_dependency 'alt_memery', '~> 2.0'
-	spec.add_runtime_dependency 'flame', '>= 4', '< 6'
-	spec.add_runtime_dependency 'module_methods', '~> 0.1.0'
+	spec.add_dependency 'alt_memery', '~> 2.0'
+	spec.add_dependency 'flame', '>= 4', '< 6'
+	spec.add_dependency 'module_methods', '~> 0.1.0'
 end
