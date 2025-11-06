@@ -3,7 +3,6 @@
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/flame-pagination?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/flame-pagination)
 [![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/flame-pagination/main.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/flame-pagination)
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/flame-pagination.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/flame-pagination)
-[![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/flame-pagination)
 [![Inline docs](https://inch-ci.org/github/AlexWayfer/flame-pagination.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/flame-pagination)
 [![license](https://img.shields.io/github/license/AlexWayfer/flame-pagination.svg?style=flat-square)](https://github.com/AlexWayfer/flame-pagination/blob/main/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/flame-pagination.svg?style=flat-square)](https://rubygems.org/gems/flame-pagination)
