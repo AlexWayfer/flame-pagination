@@ -9,7 +9,7 @@ bundle_cache: &bundle_cache
 
   install_script:
     - gem install bundler
-    - bundle update
+    - bundle update --all
 
 env:
   ## To suppress flood of warnings:
